@@ -1,0 +1,6 @@
+1. PyMuPDF - To convert PDF to image and vice versa 
+	pip install PyMuPDF
+2. google.cloud.dlp
+	pip install google.cloud.dlp
+3. Google Cloud Storage - Not Neede for current version of program but if we want to move pdf to cloud we need this
+	pip install --upgrade google-cloud-storage
