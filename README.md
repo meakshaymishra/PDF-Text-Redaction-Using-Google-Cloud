@@ -25,19 +25,10 @@ Google Cloud DLP does not support document redaction (PDF, DOC, TIFF etc...), We
   4. Project Name (Name of Project on your Google Cloud Console)
   
 <b>Installation -  </b>   
-  1. PyMuPDF      
-  <code>
-    pip install PyMuPDF
-  </code>  
-      
-      
-   <br>
-  2. Google Cloud DLP      
-  <br>
-  <code>
-    pip install google.cloud.dlp
-  </code>
-  <br>
+  1. PyMuPDF  
+    <code>pip install PyMuPDF</code>
+  2. Google Cloud DLP    
+    <code>pip install google.cloud.dlp</code>
   
   <b>Executing The Program</b>
   <br>
